@@ -1,5 +1,5 @@
 # C# Market-Otomasyonu
-Bu proje Görsel Programlama ödevim için yapmış olduğum SkyMarket adında bir Market Otomasyonu projesidir.
+Bu proje Görsel Programlama proje ödevim için yapmış olduğum SkyMarket adında bir Market Otomasyonu projesidir.
 Proje Temel Market işlemleri, BuyBox, Ürün Ekleme ve Ürün Güncelleme, Talep girme, Sepet, Profil, Ürün Takibi, Bakiye yükleme ve güncelleme gibi çoklu özelliklerden oluşmaktadır. Bunların yanında üyelerin ve adminlerin kontrolleri için ayrı paneller bulundurmaktadır. Adminler üyeleri ve market işlemlerini, Yöneticiler ise Adminleri yönetmektedir.
 
 
