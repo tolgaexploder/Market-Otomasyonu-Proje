@@ -191,7 +191,7 @@ namespace WindowsFormsApp8.Formlar
             }
 
             string[] hiddenColumns2 = { "UrunName", "UrunSatici", "UrunFiyati", "UrunBirimi", "UrunMiktari", "UrunResimm", "urunBarkodNo" };
-            foreach (var column in bunifuDataGridView3.Columns.Cast<DataGridViewColumn>().Where(c => hiddenColumns.Contains(c.Name)))
+            foreach (var column in bunifuDataGridView3.Columns.Cast<DataGridViewColumn>().Where(c => hiddenColumns2.Contains(c.Name)))
             {
                 column.Visible = false;
             }
