@@ -31,3 +31,5 @@ The project consists of multiple features such as Basic Market operations, BuyBo
 
 # Users / Kullanıcılar
 - exploder - 12345
+
+# Maded for University project.
