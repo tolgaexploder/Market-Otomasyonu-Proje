@@ -31,8 +31,3 @@ The project consists of multiple features such as Basic Market operations, BuyBo
 
 # Users / Kullanıcılar
 - exploder - 12345
-- emir37 - 12345
-
-# Contributors / Katkıda Bulunanlar
-@Emirhanyigitt
-
